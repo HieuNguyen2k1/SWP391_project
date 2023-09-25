@@ -35,6 +35,9 @@
                     <option  value="patient">Patient</option>
                 </select><br>     
                 <input type="submit" value="Đăng nhập">
+                <div class="forgot_password-link">
+                    <a href="forgot_password">Quên mật khẩu?</a>
+                </div>
             </form>
         </div>
         <div class="register-link">

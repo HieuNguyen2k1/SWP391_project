@@ -22,9 +22,9 @@ public interface DBConnect {
     public static Connection getConnection() throws ClassNotFoundException{
          Connection con=null;
         String dbUser="sa";
-        String dbPassword="123";
+        String dbPassword="123456789";
         String port="1433";
-        String ServerName="DESKTOP-HOA8KMR";
+        String ServerName="PHUC";
         String dbName="HospitalSystem";
         String driverClass ="com.microsoft.sqlserver.jdbc.SQLServerDriver";
         String url = "jdbc:sqlserver://" + ServerName +";databaseName=" +dbName+

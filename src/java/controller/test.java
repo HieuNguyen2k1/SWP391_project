@@ -13,7 +13,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 /**
- *
+ *qwe
  * @author HP
  */
 public class test extends HttpServlet {
